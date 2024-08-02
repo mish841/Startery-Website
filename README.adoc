@@ -5,7 +5,9 @@
 :source-highlighter: prettify
 
 Revamping the Startery website
+
 Backend Features Implemented
+
 The backend service is built to accept HTTP GET requests and provides endpoints for various functionalities:
 
 Profile Creation API
