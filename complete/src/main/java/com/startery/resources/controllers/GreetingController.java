@@ -1,5 +1,5 @@
-package com.example.restservice;
-
+package com.startery.resources.controllers;
+// import com.startery.resources.controllers.Greeting;
 import java.util.concurrent.atomic.AtomicLong;
 
 import org.springframework.web.bind.annotation.GetMapping;
